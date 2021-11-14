@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:interpolator:28.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/efc21cba410346b9bd062180e9fe4469/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/efc21cba410346b9bd062180e9fe4469/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/efc21cba410346b9bd062180e9fe4469/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03277ece162e78f59aa6684c50344474/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03277ece162e78f59aa6684c50344474/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03277ece162e78f59aa6684c50344474/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
